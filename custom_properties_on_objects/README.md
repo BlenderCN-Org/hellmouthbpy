@@ -6,7 +6,7 @@ Zip the contents of this folder from within the parent directory:
 zip -r custom_properties_on_objects.zip custom_properties_on_objects/
 ```
 
-In Blender 2.79, navigate to `File > User Preferences... > Add-ons > Install Add-on from file...` and select custom_properties_on_objects.zip
+In Blender 2.79, navigate to `File > User Preferences... > Add-ons > Install Add-on from file...` and select `custom_properties_on_objects.zip`
 
 Next, open Blender's scripting view, and select an object in the scene. Paste the following into the script terminal:
 
